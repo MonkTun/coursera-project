@@ -18,6 +18,7 @@ p {
   margin-left: auto;
   color: white;
   text-align: center;
+  padding: 40px;
 }
 
 /* Simple Responsive Framework. */
@@ -109,4 +110,37 @@ p {
   .col-md-12 {
     width: 100%;
   }
+}
+
+#b1 {
+  background-color: #f54242;
+  top: 0;
+  right: 0;
+  font-weight: bold;
+  height: 35px;
+  width: 120px;
+  padding: 5px;
+  text-align: center;
+}
+
+#b2 {
+  background-color: #f5e042;
+  top: 0;
+  right: 0;
+  font-weight: bold;
+  height: 35px;
+  width: 120px;
+  padding: 5px;
+  text-align: center;
+}
+
+#b3 {
+  background-color: #5442f5;
+  top: 0;
+  right: 0;
+  font-weight: bold;
+  height: 35px;
+  width: 120px;
+  padding: 5px;
+  text-align: center;
 }
